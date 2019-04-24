@@ -1,0 +1,7 @@
+info:
+  description: SchoolApp
+  url: https://github.com/ShekarMT/SteeltoeConfiguration
+  applicationSettings:
+    apiUrl: "http://schoolService/api/"
+    apikey: 1
+    
